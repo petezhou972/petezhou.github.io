@@ -42,9 +42,6 @@ education:
     - course: MPhil in Management
       institution: Zhejiang University
       year: 2021
-    - course: ''
-      institution: ''
-      year: ''
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
