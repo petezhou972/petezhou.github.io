@@ -21,7 +21,7 @@ role: PhD student in Marketing
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Eller College of Management, University of Arizona
+  - name: University of Arizona
     url: https://eller.arizona.edu/
 
 # Short bio (displayed in user profile at end of posts)
