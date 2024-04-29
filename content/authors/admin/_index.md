@@ -65,7 +65,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/petezhou972/
-  - icon: CV
+  - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 
