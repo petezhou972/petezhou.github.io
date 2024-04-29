@@ -76,5 +76,10 @@ social:
 highlight_name: true
 ---
 
-Pete Zhou is a PhD student in Marketing at the University of Arizona. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+**Hello, My name is Pete!**
+I am a doctoral candidate in Marketing at the University of Arizona's Eller College of Management, driven by a passion for better understanding the complex interplay between human behavior and technology in the marketplace. My research interests converge at the intersection of three key areas:
+- **Artificial Intelligence and Technology**: I delve into the dynamics of AI adoption, exploring who is using AI, how we interact with AI systems, and the evaluations we form about AI-generated content. I also investigate the ways in which technology shapes social interactions and influences human behavior, aiming to uncover insights that can guide responsible and inclusive technological advancements.
+- **Social Influence**: My research examines how societal perceptions (e.g., perceived economic mobility) and everyday social context (e.g., purusing goal with others), shape human behavior and decision-making processes. 
+- **Diversity, Equity, Inclusion, and Belonging (DEIB)**: My previous and current research also examine the role of retailers/brands/companies in promoting diversity, equity, inclusion, and belonging (DEIB) initiatives in the marketplace through the theoretical lens of the well-being of underrepresented minorities (e.g., LGBTQ+) and allyship.
+Before embarking on my doctoral journey, I earned an MPhil. in Management from Zhejiang University, China, and gained research experience as a research associate at the Behavioral Research Lab of The Hong Kong Polytechnic University.
 {style="text-align: justify;"}
