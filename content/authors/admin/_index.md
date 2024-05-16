@@ -31,7 +31,7 @@ bio: ''
 interests:
   - Artificial Intelligence and Technology
   - Social Influence
-  - DEIB
+  - Diversity, Equity, Inclusion, and Belonging (DEIB)
 
 # Education to show in About widget
 education:
@@ -79,9 +79,9 @@ highlight_name: true
 
 **Hello, My name is Pete!**
 I am a doctoral candidate in Marketing at the University of Arizona's Eller College of Management, driven by a passion for better understanding the complex interplay between human behavior and technology in the marketplace. My research interests converge at the intersection of three key areas:
-- **Artificial Intelligence and Technology**: I delve into the dynamics of AI adoption, exploring who is using AI, how we interact with AI systems, and the evaluations we form about AI-generated content.
-- **Social Influence**: My research examines how societal perceptions (e.g., perceived economic mobility) and everyday social context (e.g., purusing goal with others), shape human behavior and decision-making processes. 
-- **Diversity, Equity, Inclusion, and Belonging (DEIB)**: My research also examine the role of retailers/brands/companies in promoting DEIB initiatives in the marketplace through the theoretical lens of the well-being of underrepresented minorities (e.g., LGBTQ+) and allyship.
+- **Artificial Intelligence and Technology**: My research explore the dynamics of AI adoption, exploring who is using AI, how we interact with AI systems, and the evaluations we form about AI-generated content.
+- **Social Influence**: My research examine how societal perceptions (e.g., perceived economic mobility) and everyday social contexts (e.g., purusing goal with others), shape human behavior and decision-making processes. 
+- **Diversity, Equity, Inclusion, and Belonging (DEIB)**: My research also examine the role of retailers/brands/companies/NGOs in promoting DEIB initiatives in the marketplace through the theoretical lens of the well-being of underrepresented minorities (e.g., LGBTQ+) and allyship.
 
 Before embarking on my doctoral journey, I earned an MPhil. in Management from Zhejiang University, China, and gained research experience as a research associate at the Behavioral Research Lab of The Hong Kong Polytechnic University.
 {style="text-align: justify;"}
