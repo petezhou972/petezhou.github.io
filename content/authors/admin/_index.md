@@ -79,9 +79,9 @@ highlight_name: true
 
 **Hello, My name is Pete!**
 I am a doctoral candidate in Marketing at the University of Arizona's Eller College of Management, driven by a passion for better understanding the complex interplay between human behavior and technology in the marketplace. My research interests converge at the intersection of three key areas:
-- **Artificial Intelligence and Technology**: My research explore the dynamics of AI adoption, exploring who is using AI, how we interact with AI systems, and the evaluations we form about AI-generated content.
+- **Artificial Intelligence and Technology**: My research explore the dynamics of AI adoption, exploring how we perceive AI users, how we interact with AI systems, and the evaluations we form about AI-generated content.
 - **Social Influence**: My research examine how societal perceptions (e.g., perceived economic mobility) and everyday social contexts (e.g., purusing goal with others), shape human behavior and decision-making processes. 
-- **Diversity, Equity, Inclusion, and Belonging (DEIB)**: My research also examine the role of retailers/brands/companies/NGOs in promoting DEIB initiatives in the marketplace through the theoretical lens of the well-being of underrepresented minorities (e.g., LGBTQ+) and allyship.
+- **Consumer Well-bing & Culture**: My research also examine the role of small businesses and organizations (e.g., chorus, local support communities) in promoting consumer well-being ans (re)shaping consumer culture in the marketplace through the theoretical lens of positive psychology and institution theory.
 
 Before embarking on my doctoral journey, I earned an MPhil. in Management from Zhejiang University, China, and gained research experience as a research associate at the Behavioral Research Lab of The Hong Kong Polytechnic University.
 {style="text-align: justify;"}
