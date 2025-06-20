@@ -84,4 +84,6 @@ I am a doctoral candidate in Marketing at the University of Arizona's Eller Coll
 - **Consumer Well-being & Culture**: My research also investigates the role of small businesses and organizations (e.g., chorus and local support communities) in promoting consumer well-being and (re)shaping consumer culture in the marketplace through the theoretical lens of positive psychology and institution theory.
 
 Before joining the PhD program, I earned an MPhil. in Management from Zhejiang University, China, and gained research experience as a research associate at the Behavioral Research Lab of The Hong Kong Polytechnic University.
+
+**I am on the job market of 2025-2026.**
 {style="text-align: justify;"}
