@@ -1,8 +1,9 @@
 ---
-title: 'Test'
+title: 'Bits, Bytes, and Bias: Service Providers Who Use AI Are Seen as Cold and Incompetent'
 authors:
 - Pete Pengcheng Zhou
-- yuehan
+- Yujie Zhao
+- Caleb Warren
 date: '2025-07-04'
 publishDate: '2024-04-29T06:53:58.049351Z'
 publication_types:
