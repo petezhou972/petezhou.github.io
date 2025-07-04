@@ -1,19 +1,35 @@
 ---
-title: 'Bits, Bytes, and Bias: Service Providers Who Use AI Are Seen as Cold and Incompetent'
+title: 'Test'
 authors:
 - Pete Pengcheng Zhou
-- Yujie (Jay) Zhao
-- Caleb Warren
-date: '2025-07-04'
+- yuehan
+date: '2021-10-01'
 publishDate: '2024-04-29T06:53:58.049351Z'
 publication_types:
-- working-paper
-publication: '*Journal of Consumer Research*'
-abstract: Generative AI promises to help people work, entertain, and even socialize better, and it has quickly been adopted by consumers and employees across demographic categories, lifestyles, and industries. Yet, we lack an understanding of how AI use influences consumers’ relationships and judgments of others. Does AI use enhance or diminish the reputation of service providers, physicians, entrepreneurs, and other employees? Seven studies (total N = 3,571, six preregistered) uncovered a consistent pattern: consumers view workers who use AI as    being both less warm and less competent. These negative impressions reduce consumers’ willingness to follow the advice of doctors who use AI and support non-profit founders who use AI. The impressions are also persistent; consumers continue to perceive AI users as less warm and competent even after reading about how AI can help them better perform their work. Our research advances theory and practice by illustrating a challenge faced by businesses and employees who use AI: even when AI improves service quality, consumers may avoid using services when the providers use AI because they have a less favorable impression of the service provider.
+- article-journal
+publication: '*Tourism Management Perspectives*'
+doi: 10.1016/j.tmp.2021.100905
+abstract: The well-being of participants at major destination events has received
+  little empirical attention in the literature. This paper explores LGBT (Lesbian,
+  Gay, Bisexual, Transgender & other sexual minority) event participants' hedonic
+  and eudaimonic well-being at the iconic Hangzhou Rainbow Marathon (HRM) in China.
+  PERMA (Positive Emotions, Engagement, Relationships, Meaning, and Achievement) psychological
+  model of human flourishing was adopted to analyze hedonic and eudaimonic well-being.
+  Mixed qualitative methods, in the form of semi-structured in-depth interviews and
+  a focus group, were used to address the research aim. This data was supported by
+  informal personal observations at the marathon site. Distinctions among participants'
+  experiences were identified, resulting in slightly different perceptions of PERMA
+  elements for paraders, volunteers and organizers. Through this role-based perspective,
+  an event specific PERMA model emerged. Implications for event organizers and marketing
+  specialists are provided.
 tags:
-- Artificial intelligence
-- Stereotype
-- Warmth
-- Competence
-- Impressions
+- China
+- LGBT tourism
+- PERMA
+- Pride parade
+- Well-being
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S2211973621001185
 ---
+
