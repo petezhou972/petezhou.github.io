@@ -8,7 +8,6 @@ publishDate: '2024-04-29T06:53:58.049351Z'
 publication_types:
 - article-journal
 publication: '*Tourism Management Perspectives*'
-doi: 10.1016/j.tmp.2021.100905
 abstract: The well-being of participants at major destination events has received
   little empirical attention in the literature. This paper explores LGBT (Lesbian,
   Gay, Bisexual, Transgender & other sexual minority) event participants' hedonic
