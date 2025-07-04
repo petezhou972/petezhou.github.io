@@ -26,7 +26,7 @@ abstract: Charitable organizations increasingly turn to artificial intelligence 
     perceived authenticity—sequential mediators that explain reduced charitable giving.  
     Study 4 (N = 599) demonstrated that when charitable AI  
     usage is framed around intrinsic motivations, the observed negative  
-    effects are attenuated. Crucially, entity type moderates this phenomenon:  
+    effects are attenuated. Crucially, entity type moderates this phenomenon - 
     Corporations avoid backlash for charitable AI usage, whereas nonprofits  
     experience significantly greater negative effects (Study 5, N =  
     995). These findings introduce a novel motivational perspective to  
