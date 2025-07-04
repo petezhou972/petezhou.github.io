@@ -6,7 +6,7 @@ authors:
 date: '2021-10-01'
 publishDate: '2024-04-29T06:53:58.049351Z'
 publication_types:
-- article-journal
+- test-paper
 publication: '*Tourism Management Perspectives*'
 abstract: The well-being of participants at major destination events has received
   little empirical attention in the literature. This paper explores LGBT (Lesbian,
