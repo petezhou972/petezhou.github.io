@@ -11,7 +11,7 @@ author_notes:
 date: '2025-07-04'
 publishDate: '2024-04-29T06:53:58.049351Z'
 publication_types:
-- working paper
+- Working Paper
 publication: 'Revising for Resubmission to *International Journal of Research in Marketing*'
 abstract: This research investigates how perceived economic mobility affects  
     consumers’ engagement in dependency-oriented charitable giving, which provides  

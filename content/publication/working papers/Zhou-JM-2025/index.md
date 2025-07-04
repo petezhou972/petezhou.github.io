@@ -7,7 +7,7 @@ authors:
 date: '2025-07-04'
 publishDate: '2024-04-29T06:53:58.049351Z'
 publication_types:
-- working paper
+- Working Paper
 publication: 'Under Review at *Journal of Marketing*'
 abstract: Marketers are increasingly seeking assistance from generative AI (GenAI) on tasks 
     that used to be performed by human employees. To benefit from GenAI, marketers need to know 

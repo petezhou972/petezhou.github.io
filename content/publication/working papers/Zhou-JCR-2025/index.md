@@ -7,7 +7,7 @@ authors:
 date: '2025-07-04'
 publishDate: '2024-04-29T06:53:58.049351Z'
 publication_types:
-- working paper
+- Working Paper
 publication: 'Reject & Resubmit at *Journal of Consumer Research*'
 abstract: Generative AI promises to help people work, entertain, and even socialize better,
     and it has quickly been adopted by consumers and employees across demograhic categories,
