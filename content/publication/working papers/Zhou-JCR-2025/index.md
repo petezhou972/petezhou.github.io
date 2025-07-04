@@ -13,10 +13,10 @@ abstract: Generative AI promises to help people work, entertain, and even social
     lifestyles, and industries. Yet, we lack an understanding of how AI use influences consumers’ relationships and judgments of others.
     Does AI use
 tags:
-- China
-- LGBT tourism
-- PERMA
-- Pride parade
-- Well-being
+- Artificial intelligence
+- Stereotype
+- Warmth
+- Competence
+- Impressions
 ---
 
