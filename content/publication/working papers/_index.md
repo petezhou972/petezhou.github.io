@@ -1,16 +1,30 @@
 ---
-title: Publications and Working Papers
-cms_exclude: true
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
-view: 4
-
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
+title: 'Test'
+authors:
+- Test
+date: '2025-10-01'
+publishDate: '2024-04-29T06:53:58.049351Z'
+publication_types:
+- working-paper
+publication: '*Tourism Management Perspectives*'
+doi: 10.1016/j.tmp.2021.100905
+abstract: The well-being of participants at major destination events has received
+  little empirical attention in the literature. This paper explores LGBT (Lesbian,
+  Gay, Bisexual, Transgender & other sexual minority) event participants' hedonic
+  and eudaimonic well-being at the iconic Hangzhou Rainbow Marathon (HRM) in China.
+  PERMA (Positive Emotions, Engagement, Relationships, Meaning, and Achievement) psychological
+  model of human flourishing was adopted to analyze hedonic and eudaimonic well-being.
+  Mixed qualitative methods, in the form of semi-structured in-depth interviews and
+  a focus group, were used to address the research aim. This data was supported by
+  informal personal observations at the marathon site. Distinctions among participants'
+  experiences were identified, resulting in slightly different perceptions of PERMA
+  elements for paraders, volunteers and organizers. Through this role-based perspective,
+  an event specific PERMA model emerged. Implications for event organizers and marketing
+  specialists are provided.
+tags:
+- China
+- LGBT tourism
+- PERMA
+- Pride parade
+- Well-being
 ---
