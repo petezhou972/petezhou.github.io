@@ -27,8 +27,5 @@ tags:
 - PERMA
 - Pride parade
 - Well-being
-links:
-- name: URL
-  url: https://www.sciencedirect.com/science/article/pii/S2211973621001185
 ---
 
