@@ -11,7 +11,7 @@ date: '2025-07-04'
 publishDate: '2024-04-29T06:53:58.049351Z'
 publication_types:
 - Working Paper
-publication: 'Under 2nd Round Review at *Journal of Business Ethics*'
+publication: 'Forthcoming at *Journal of Business Ethics*'
 abstract: Charitable organizations increasingly turn to artificial intelligence tools  
     to address the challenge of soliciting charitable donations. However,  
     unlike in corporate contexts, the use of AI in  
